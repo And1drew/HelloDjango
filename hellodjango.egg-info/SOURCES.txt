@@ -1,0 +1,12 @@
+setup.py
+hellodjango/__init__.py
+hellodjango/asgi.py
+hellodjango/manage.py
+hellodjango/settings.py
+hellodjango/urls.py
+hellodjango/wsgi.py
+hellodjango.egg-info/PKG-INFO
+hellodjango.egg-info/SOURCES.txt
+hellodjango.egg-info/dependency_links.txt
+hellodjango.egg-info/requires.txt
+hellodjango.egg-info/top_level.txt
