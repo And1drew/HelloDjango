@@ -1,7 +1,6 @@
 setup.py
 hellodjango/__init__.py
 hellodjango/asgi.py
-hellodjango/manage.py
 hellodjango/settings.py
 hellodjango/urls.py
 hellodjango/wsgi.py
